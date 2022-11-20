@@ -1,0 +1,15 @@
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\bin\Debug\net6.0\AbstractClassImplement.exe
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\bin\Debug\net6.0\AbstractClassImplement.deps.json
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\bin\Debug\net6.0\AbstractClassImplement.runtimeconfig.json
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\bin\Debug\net6.0\AbstractClassImplement.dll
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\bin\Debug\net6.0\AbstractClassImplement.pdb
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.csproj.AssemblyReference.cache
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.AssemblyInfoInputs.cache
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.AssemblyInfo.cs
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.csproj.CoreCompileInputs.cache
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.dll
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\refint\AbstractClassImplement.dll
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.pdb
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\AbstractClassImplement.genruntimeconfig.cache
+D:\Coding and programs\AbstractClassImplement\AbstractClassImplement\obj\Debug\net6.0\ref\AbstractClassImplement.dll
